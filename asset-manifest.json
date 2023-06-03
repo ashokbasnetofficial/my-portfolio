@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.1242b889.css",
-    "main.js": "/static/js/main.43709131.js",
+    "main.js": "/static/js/main.9ba36a7e.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/ashok basnet.JPG": "/static/media/ashok basnet.33f3374b734822b75f1e.JPG",
     "static/media/project_2.png": "/static/media/project_2.a87e783d79454907faee.png",
     "static/media/placeholder.png": "/static/media/placeholder.3fcbbdcd05f3e458d129.png",
     "static/media/contactsImage.png": "/static/media/contactsImage.ae518032e2adaa1c90eb.png",
@@ -94,11 +95,11 @@
     "static/media/vuetifyjs.svg": "/static/media/vuetifyjs.3848fcff351a0cbc94e75362594d2b25.svg",
     "static/media/bulma.svg": "/static/media/bulma.12ecb7941234000a2fe38a48cbce30da.svg",
     "main.1242b889.css.map": "/static/css/main.1242b889.css.map",
-    "main.43709131.js.map": "/static/js/main.43709131.js.map",
+    "main.9ba36a7e.js.map": "/static/js/main.9ba36a7e.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1242b889.css",
-    "static/js/main.43709131.js"
+    "static/js/main.9ba36a7e.js"
   ]
 }
