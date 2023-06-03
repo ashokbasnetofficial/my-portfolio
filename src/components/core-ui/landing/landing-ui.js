@@ -78,7 +78,7 @@ function LandingUI({ theme, drawerOpen, classes }) {
                     </div>
                 </div>
                 <img
-                    src={headerData.image}
+                    src="../../../assets/logo/ashok basnet.JPG"
                     alt=''
                     className='landing--img'
                     style={{
