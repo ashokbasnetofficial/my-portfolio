@@ -8,7 +8,7 @@
 
 ![](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yg7pbgnih9nziulfu3u9.gif)
 
-## View live demo [here](https://abusaid.netlify.app/).
+## View live demo [here](https:www.basnetashok.com.np).
 
 ---
 
@@ -37,8 +37,6 @@
 - RESUME
   - EDUCATION
   - SKILLS
-  - EXPERIENCE
-  - CERTIFICATES
   - PROJECTS
 - BLOG
 - CONTACTS
@@ -225,7 +223,7 @@ yarn start
 
 # Usage :joystick:
 
-### Customize your details for each component in `src/data` [folder](https://github.com/hhhrrrttt222111/developer-portfolio/tree/master/src/data).
+### Customize your details for each component in `src/data` [folder](https://github.com/ashokbasnetofficial/my-portfolio/tree/master/src/data).
 
 Eg:
 
@@ -251,29 +249,6 @@ export const headerData = {
   resumePdf: resume,
 };
 ```
-
----
-
-#### Data for each component is divided into respective files.
-
-> #### Choose your favourite font from [`src/App.css`](https://github.com/said7388/developer-portfolio/blob/main/src/App.css)
-
-> #### About You - [`src/data/aboutData.js`](https://github.com/said7388/developer-portfolio/blob/main/src/data/aboutData.js)
-
-> #### Education details - [`src/data/educationData.js`](https://github.com/said7388/developer-portfolio/blob/main/src/data/educationData.js)
-
-> #### Enter your Projects - [`src/data/projectsData.js`](https://github.com/said7388/developer-portfolio/blob/main/src/data/projectsData.js)
-
-> #### Add your Skills - [`src/data/skillsData.js`](https://github.com/said7388/developer-portfolio/blob/main/src/data/skillsData.js)
-
-> #### Experience - [`src/data/experienceData.js`](https://github.com/said7388/developer-portfolio/blob/main/src/data/experienceData.js)
-
-> #### Your Blogs and Articles - [`src/data/blogData.js`](https://github.com/said7388/developer-portfolio/blob/main/src/data/blogData.js)
-
-> #### Contact Details - [`src/data/contactsData.js`](https://github.com/said7388/developer-portfolio/blob/main/src/data/contactsData.js)
-
-> #### Social Media Profiles - [`src/data/contactsData.js`](https://github.com/said7388/developer-portfolio/blob/main/src/data/socialsData.js)
-
 ```javascript
 // EXAMPLE
 export const educationData = [
@@ -330,33 +305,7 @@ export const educationData = [
 
 <br />
 
-```html
-<meta name="description" content="--- SITE DESCRIPTION ---" />
-<meta property="og:image" content="--- YOUR IMAGE ---" />
-<meta property="og:site_name" content="--- YOUR NAME ---" />
-<meta property="og:title" content="--- YOUR NAME ---" />
-<meta property="og:url" content="--- YOUR SITE URL ---" />
-<meta property="og:type" content="website" />
-<meta property="og:description" content="--- SITE DESCRIPTION ---" />
-<meta property="og:locale" content="---  ---" />
-<meta property="og:image" content="--- YOUR IMAGE ---" />
-<meta property="og:image:width" content="1200" />
-<meta property="og:image:height" content="630" />
 
-<meta itemprop="name" content="--- YOUR NAME ---" />
-<meta itemprop="url" content="--- YOUR SITE URL ---" />
-<meta itemprop="description" content="--- SITE DESCRIPTION ---" />
-<meta itemprop="thumbnailUrl" content="" />
-<link rel="image_src" href="--- YOUR IMAGE ---" />
-<meta itemprop="image" content="--- YOUR IMAGE ---" />
-
-<meta name="twitter:site" content="@--- YOUR TWITTER USERNAME ---" />
-<meta name="twitter:creator" content="@--- YOUR TWITTER USERNAME ---" />
-<meta name="twitter:url" content="--- YOUR SITE URL ---" />
-<meta name="twitter:title" content="--- YOUR NAME ---" />
-<meta name="twitter:description" content="--- SITE DESCRIPTION ---" />
-<meta name="twitter:image" content="--- YOUR IMAGE ---" />
-<meta name="twitter:card" content="summary" />
 ```
 
 ---
@@ -399,45 +348,3 @@ export const educationData = [
 
 ---
 
-<!--
-# Contributors :man_technologist::woman_technologist:
-
-<div>
-    <table>
-        <tr>
-            <td align="center"><a href="https://github.com/said7388"><img src="https://i.ibb.co/ZmdNH6x/abu-said.jpg" width="135px;" height="135px;" alt=""/><br /><b>Abu Said</b></a></td>
-            <td align="center"><a href="https://github.com/hhhrrrttt222111"><img src="https://hhhrrrttt222111.web.app/static/media/dp.5f7c380f.jpeg" width="135px;" height="135px;" alt=""/><br /><b>Hemanth R</b></a></td>
-        </tr>
-    </table>
-</div> -->
-
-<!--
-## Setting Up Contacts form :envelope_with_arrow:
-
-> ### Follow these [instructions](https://github.com/hhhrrrttt222111/developer-portfolio/wiki/Contacts) to connect contacts form with Google Sheet
-
-
-
-
-
-
-# Upcoming Features :construction:
-
-- Light/Dark theme toggle
-- More illustrations to choose from
-- Achievements and Awards section
-- More fonts to choose from
-
-<br /><br />
-
-## Raise an issue for...
-
-- Found a bug
-- New theme
-- Can't find required skill in Skills section
-- Add new social media profile
-- Add new service
-- Add another section
-
-
-<br /> -->
