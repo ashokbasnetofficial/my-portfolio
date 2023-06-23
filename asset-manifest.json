@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.1242b889.css",
-    "main.js": "/static/js/main.d95e320c.js",
+    "main.js": "/static/js/main.89fb8300.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/ashok basnet.jpg": "/static/media/ashok basnet.40ff3f5e927501375ba2.jpg",
     "static/media/project_2.png": "/static/media/project_2.a87e783d79454907faee.png",
+    "static/media/Ashok Basnet Resume.pdf": "/static/media/Ashok Basnet Resume.951f21550eeb4d3eb377.pdf",
     "static/media/placeholder.png": "/static/media/placeholder.3fcbbdcd05f3e458d129.png",
     "static/media/contactsImage.png": "/static/media/contactsImage.ae518032e2adaa1c90eb.png",
     "static/media/project_4.png": "/static/media/project_4.8daf7a79800e9bd85f73.png",
@@ -95,11 +96,11 @@
     "static/media/vuetifyjs.svg": "/static/media/vuetifyjs.3848fcff351a0cbc94e75362594d2b25.svg",
     "static/media/bulma.svg": "/static/media/bulma.12ecb7941234000a2fe38a48cbce30da.svg",
     "main.1242b889.css.map": "/static/css/main.1242b889.css.map",
-    "main.d95e320c.js.map": "/static/js/main.d95e320c.js.map",
+    "main.89fb8300.js.map": "/static/js/main.89fb8300.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1242b889.css",
-    "static/js/main.d95e320c.js"
+    "static/js/main.89fb8300.js"
   ]
 }
