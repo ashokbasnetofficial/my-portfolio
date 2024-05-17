@@ -37,7 +37,7 @@ export const projectsData = [
         projectDesc: 'A JavaScript-based SIP calculator to estimate returns on systematic investment plans accurately and efficiently.',
         tags: ['JavaScript', 'CSS', 'HTML'],
         code: 'https://github.com/ashokbasnetofficial/sip-calculator',
-        demo: 'https://travel-agency-fc58b.web.app/',
+        demo: 'https://sip-calculator-js.netlify.app/',
         image: sip
     },
   
