@@ -14,7 +14,7 @@ export const theLightTheme = {
 
 export const theDarkTheme = {
     type: 'dark',
-    primary: '#dedede',
+    primary: 'white',
     secondary: '#675b5f',
     quaternary: '#2f2a2e',
     quaternaryLight: '#8b98a5',
